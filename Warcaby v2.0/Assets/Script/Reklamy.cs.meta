@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1c5fd64064bd934598595a2031b1862
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pepsi: {fileID: 21300000, guid: dc1dafc4334fd49448ddb82208c25346, type: 3}
+  - Wimiip: {fileID: 21300000, guid: b2c4472f3c33b8240b1a9edc077f2d18, type: 3}
+  - snake: {fileID: 21300000, guid: b5c0cd76bce5b8445862eb7629d56019, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

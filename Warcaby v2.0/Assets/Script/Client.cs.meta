@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 89918ca4927b8544fa4499770691273e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TableButtonPrefab: {fileID: 5278800468296304267, guid: bf0e728639e83f84986011d2d05e3671, type: 3}
+  - ChatMsgPrefab: {fileID: 5028759473387745222, guid: 8b22a8dc5c2fefd42aed84fb7333a5c5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
