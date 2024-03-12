@@ -1,6 +1,6 @@
 ﻿Warcaby![ref1]![ref1]
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.002.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.002.jpeg)
 
 **Autorzy**
 
@@ -60,23 +60,23 @@ System dzieli się na dwie części - część z której może korzystać użytk
 
 <a name="_page3_x72.00_y599.10"></a>Poziom 0
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.003.png)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.003.png)
 
 <a name="_page4_x72.00_y72.00"></a>Poziom 1
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.004.png)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.004.png)
 
 <a name="_page4_x72.00_y332.74"></a>Rejestracja
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.005.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.005.jpeg)
 
 <a name="_page5_x72.00_y72.00"></a>Logowanie
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.006.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.006.jpeg)
 
 <a name="_page5_x72.00_y330.49"></a>Rozgrywka Online
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.007.png)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.007.png)
 
 <a name="_page5_x72.00_y579.03"></a>Wybrana metodyka wytwarzania
 
@@ -104,7 +104,7 @@ Podzieliliśmy projekt na mniejsze części: utworzenie rozgrywki, zarządzanie 
 
 <a name="_page7_x72.00_y72.00"></a>Diagram przypadków użycia
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.008.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.008.jpeg)
 
 <a name="_page7_x72.00_y335.18"></a>Opis przypadków użycia
 
@@ -145,13 +145,13 @@ Reklamy będą mogły być źródłem z którego aplikacja będzie się utrzymyw
 
 <a name="_page9_x72.00_y104.45"></a>Wymagania funkcjonalne
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.009.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.009.jpeg)
 
 10
 
 <a name="_page10_x72.00_y72.00"></a>Wymagania niefunkcjonalne
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.010.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.010.jpeg)
 
 <a name="_page10_x72.00_y569.14"></a>Wykaz zastosowanych technologii
 
@@ -186,7 +186,7 @@ Jest to biblioteka umożliwiająca stworzenie serwera i zarządzanie nim. W taki
 
 <a name="_page12_x72.00_y104.45"></a>Rejestracja
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.011.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.011.jpeg)
 
 Tutaj “Analiza danych” jest połączona z diagramem “Utworzenie konta”
 
@@ -194,90 +194,90 @@ Tutaj “Analiza danych” jest połączona z diagramem “Utworzenie konta”
 
 <a name="_page13_x72.00_y72.00"></a>Utworzenie konta
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.012.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.012.jpeg)
 
 <a name="_page14_x72.00_y72.00"></a>Logowanie się do konta
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.013.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.013.jpeg)
 
 <a name="_page15_x72.00_y72.00"></a>Zarządzanie ustawieniami
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.014.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.014.jpeg)
 
 <a name="_page16_x72.00_y72.00"></a>Tworzenie rozgrywki z graczem
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.015.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.015.jpeg)
 
 <a name="_page17_x72.00_y72.00"></a>Rozgrywka z graczem
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.016.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.016.jpeg)
 
 18
 <a name="_page18_x72.00_y72.00"></a>Czat
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.017.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.017.jpeg)
 
 19
 
 <a name="_page19_x72.00_y72.00"></a>Wyświetlanie reklam
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.018.png)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.018.png)
 
 20
 
 <a name="_page20_x72.00_y72.00"></a>Diagram klas
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.019.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.019.jpeg)
 
 **Przybliżenia:**
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.020.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.020.jpeg)
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.021.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.021.jpeg)
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.022.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.022.jpeg)
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.023.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.023.jpeg)
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.024.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.024.jpeg)
 
 <a name="_page24_x72.00_y72.00"></a>Diagramy sekwencji
 
 <a name="_page24_x72.00_y104.45"></a>Rejestracja
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.025.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.025.jpeg)
 
 <a name="_page24_x72.00_y386.63"></a>Logowanie się do konta
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.026.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.026.jpeg)
 
 <a name="_page25_x72.00_y72.00"></a>Zarządzanie ustawieniami
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.027.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.027.jpeg)
 
 <a name="_page26_x72.00_y72.00"></a>Tworzenie rozgrywki z graczem
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.028.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.028.jpeg)
 
 <a name="_page27_x72.00_y72.00"></a>Rozgrywka z graczem
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.029.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.029.jpeg)
 
 <a name="_page27_x72.00_y415.68"></a>Czat
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.030.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.030.jpeg)
 
 <a name="_page28_x72.00_y72.00"></a>Wyświetlanie reklam
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.031.png)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.031.png)
 
 <a name="_page28_x72.00_y310.39"></a>Diagram komponentów
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.032.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.032.jpeg)
 
 <a name="_page29_x72.00_y72.00"></a>Diagram wdrożenia
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.033.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.033.jpeg)
 
 <a name="_page29_x72.00_y459.68"></a>Przykłady współpracy
 
@@ -285,7 +285,7 @@ Tutaj “Analiza danych” jest połączona z diagramem “Utworzenie konta”
 
 Podczas tworzenia projektu, aby zaplanować dokładnie co mamy do zrobienia korzystaliśmy z aplikacji Trello. Dzięki tej aplikacji mogliśmy łatwo zobaczyć co już jest zrobione, co jest w trakcie oraz co musimy jeszcze zrobić.
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.034.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.034.jpeg)
 
 <a name="_page30_x72.00_y86.55"></a>GitHub
 
@@ -293,39 +293,39 @@ Jest to hostingowy serwis internetowy przeznaczony do projektów programistyczny
 
 Dzięki temu narzędziu można szybko wrócić do poprzednich wersji kodu w wypadku, gdy nowe powodują ciężkie do naprawienia błędy.
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.035.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.035.jpeg)
 
 Ten program oferuje nam również kontrolę wersji - zmiany przechodzą do branch’a main tylko wtedy kiedy zostaną zaakceptowane. Dzięki wizualizacji tego, co zostało zmienione, dodane i usunięte bardzo wyraźnie widać co zostało zrealizowane.
 
 Aby szybko i łatwo pobrać zmiany na komputer, dobrze korzystać z aplikacji GitHub Desktop, dzięki której można łatwo fetch’ować i zastąpić zmienione pliki w komputerze, dzięki czemu nie trzeba ręcznie szukać wprowadzonych zmian.
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.036.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.036.jpeg)
 
 <a name="_page31_x72.00_y72.00"></a>Testy jednostkowe
 
-Testy jednostkowe to metoda testowania tworzonego oprogramowania poprzez wykonywanie testów, które będą weryfikować poprawność działania pojedynczych elementów programu. W tym przypadku testowaliśmy metody klasy Logic.![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.037.jpeg)
+Testy jednostkowe to metoda testowania tworzonego oprogramowania poprzez wykonywanie testów, które będą weryfikować poprawność działania pojedynczych elementów programu. W tym przypadku testowaliśmy metody klasy Logic.![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.037.jpeg)
 
 Do utworzenia testów jednostkowych w Unity potrzebowaliśmy dodatku “Test Framework”, który domyślnie jest w Unity. Dzięki niemu można bezpośrednio w oknie Unity uruchamiać testy.
 
 Pierwszym przykładem testu jednostkowego jest testowanie funkcji between, która ma sprawdzać, czy a jest pomiędzy x1 a x2.
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.038.png)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.038.png)
 
 Drugim przykładem testu jednostkowego jest testowanie funkcji CheckIfInside, która sprawdza czy ruch który chce wykonać gracz nie jest poza planszą.
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.039.png)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.039.png)
 
 Wyniki jak funkcje działały by niepoprawnie:
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.040.png)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.040.png)
 
 Po naprawieniu jednej z funkcji:
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.041.png)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.041.png)
 
 I działające funkcje:
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.042.png)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.042.png)
 
 <a name="_page32_x72.00_y585.83"></a>Refaktoryzacja kodu
 
@@ -335,15 +335,15 @@ Przedstawię przykłady w formie zrzutów ekranu z githuba, dzięki czemu łatwo
 
 Pierwszy fragment:
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.043.png)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.043.png)
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.044.png)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.044.png)
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.045.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.045.jpeg)
 
 Funkcja, która zastępuje te warunki:
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.046.png)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.046.png)
 
 Widzimy tutaj zmianę zapisu warunku sprawdzającego czy pionek znajduję się na planszy. Zastąpiliśmy warunek funkcją, dzięki czemu w razie potrzeby zamiast zmieniać ten warunek w każdym miejscu, możemy zmienić funkcję, która jednocześnie zmieni się w innych miejscach programu.
 
@@ -351,17 +351,17 @@ Kolejnym przykładem była zmiana nazewnictwa, tak by była bardziej jednolita. 
 
 Tak wyglądał jej stan przed refaktoryzacją:
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.047.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.047.jpeg)
 
 Jak widzimy, nazewnictwo nie jest spójne, co może przeszkadzać w dalszych próbach rozwijania oprogramowania. Jako że w większości kodu dominują angielskie nazwy, dlatego i tu postanowiliśmy je na takie zamienić.
 
 Stan klasy po refaktoryzacji:
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.048.jpeg)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.048.jpeg)
 
 Trzecim przykładem uporządkowanie kodu będzie użycie switch case’a zamiast łańcucha if’ów. Dla takiego przypadku o wiele estetycznej i bardziej przejrzyście jest użyć właśnie formy switch case - osoba, która będzie dalej rozwijać kod połapie się o wiele lepiej w tej wersji.
 
-![](Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.049.png)
+![](Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.049.png)
 
 <a name="_page36_x72.00_y323.71"></a>Wzorce projektowe
 
@@ -532,4 +532,4 @@ Dużym problemem było wprowadzenie AI do naszej wersji gry, głównie stworzeni
 Najbardziej wyróżniającym elementem tego programu wśród innych odmian warcabów jest jest jego oprawa wizualna - rzadko spotyka się wśród warcabów online grafikę 3D, zazwyczaj są one dwuwymiarowe.
 41
 
-[ref1]: Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.001.png
+[ref1]: Images/Aspose.Words.7ba5a526-125f-4f09-8c1b-b59e6a0b25b9.001.png
